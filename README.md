@@ -1,42 +1,20 @@
-Gowrish Kumar Reddy
-*Undergraduate Researcher · SRM Institute of Science and Technology · Chennai · 2028*
+# Gowrish Kumar Reddy
 
-> *Most practitioners building with AI cannot explain what they are building.*
-> *AGI timelines dominate discourse. Mathematical foundations are treated as optional.*
-> *I consider this a serious problem.*
+AI safety research: multi-agent oversight, LLM evaluation and interpretability.
+B.Tech CSE (AI/ML) at SRM Institute of Science and Technology, Chennai (2028).
 
-### Position
-Third-year undergraduate in Computer Science (AI/ML), targeting a PhD in machine learning – Fall 2028.
-Primary focus: large language models — not as products or tools, 
-but as mathematical objects that deserve to be understood completely.
+## Research
 
-### Methodology: 
-I operate from a specific set of commitments:
-- Original papers over second hand explanations — always
-- Mathematical derivation precedes every implementation
-- Hardware and memory intuition before abstraction
-- No framework until the underlying concept is derived from scratch
-This is slower. It is also the only approach I find intellectually honest.
+**[Collusion monitors in agent swarms](https://github.com/gowrish-kumar-61/copies-look-like-colluders-swarm)** · Apart Research Swarm Alignment Hackathon, Nov 2026 · solo · [paper](https://gowrish-kumar-61.github.io/research/copies-look-like-colluders-swarm.pdf)
+In 227 repeated-pricing games played by small LLMs, standard collusion monitors accused innocent same-model pairs 4–16× as often as mixed-model pairs, up to a false accusation in every 12-agent game. Calibrating against known-innocent pairs or label-free twin replays cut this to 15–50%.
 
-### Currently Working Through: 
-**Foundational Papers**
-> Vaswani et al. -- Attention Is All You Need (2017) Radford et al.
-> Language Models are  Unsupervised Multitask Learners (2019).
-> Hoffmann et al. -- Training Compute-Optimal Large Language Models (2022).
-**Mathematical Foundations**
-> Linear Algebra -- Vector spaces, eigen decomposition.
-> SVD Calculus -- Chain rule, Jacobians, Hessians.
-> Probability -- Bayesian inference, information theory.
+**[Action-only collusion detection for LLM agents](https://github.com/gowrish-kumar-61/copies-look-like-colluders)** · Apart Research AI Collusion Sprint, Oct 2026 · solo · [paper](https://gowrish-kumar-61.github.io/research/copies-look-like-colluders.pdf)
+An information-theoretic detector accused a pair in 30 of 78 games with no collusion, mostly two copies of the same model. Same-model calibration cut that to 5 of 78, but it then found only 4 of 41 secret pairs.
 
-### On Current AI Culture
-> The field increasingly produces engineers who optimise models they cannot mathematically describe.
-> Framework literacy is mistaken for understanding.
-> Benchmark performance is mistaken for insight.
-> Hype cycles move faster than comprehension.
+**Station House (open source)** · Oct 2026 – now
+[ConspiracyBench](https://huggingface.co/spaces/Station-house/ConspiracyBench): 41 merged PRs, made up of stress tests and fixes for the Inspect evaluation pipeline plus 35 sourced questions in six languages. [Marin 32B neuron hunt](https://github.com/Station-House/marin-neuron-hunt): explaining MLP neurons (first explanation in draft).
 
-> My interest is not in what AI can produce today. My interest is in understanding the mechanism well enough to contribute something original.
+**[GPT-2 interpretability pipeline](https://github.com/gowrish-kumar-61/mechanistic-interp-gpt2)** · 2026
+GPT-2 forward pass with full activation caching and patching, in pure PyTorch; matches HuggingFace to within 2e-4. On GPT-2 Medium it finds induction heads (L9H9, 0.95) and previous-token heads (L5H11, 0.97), and zeroing the top five lowers the probability of the correct repeated token from 0.88 to 0.78.
 
-**PhD Target:** Fall 2028 · Machine Learning
-[Twitter](https://twitter.com/gowrishkumar23) · [LinkedIn]( https://linkedin.com/in/gowrish-kumar-ab1a0132b)
-
-*Influenced by the work of Andrej Karpathy, Ilya Sutskever, George Hotz.*
+[Website](https://gowrish-kumar-61.github.io) · [CV](https://gowrish-kumar-61.github.io/cv.pdf) · [X](https://x.com/Gowrishkumar23) · [LinkedIn](https://www.linkedin.com/in/gowrish-kumar-reddy-ab1a0132b) · [Hugging Face](https://huggingface.co/gowrishkumar)
