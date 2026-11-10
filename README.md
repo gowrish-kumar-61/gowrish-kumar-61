@@ -1,6 +1,6 @@
 # Gowrish Kumar Reddy
 
-AI safety research: multi-agent oversight, LLM evaluation and interpretability.
+AI safety research: Interpretability, multi-agent oversight, and LLM evaluation.
 B.Tech CSE (AI/ML) at SRM Institute of Science and Technology, Chennai (2028).
 
 ## Research
