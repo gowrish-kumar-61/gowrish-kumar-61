@@ -10,8 +10,8 @@ I want to know when we can trust what an AI system is doing: whether a monitor w
 - **Open-source evals at [Station House](https://github.com/Station-House).** Stress tests and fixes for [ConspiracyBench](https://huggingface.co/spaces/Station-house/ConspiracyBench), and explaining MLP neurons in the [Marin 32B neuron hunt](https://github.com/Station-House/marin-neuron-hunt).
 
 ### Research
-- [Collusion monitors in agent swarms](https://github.com/gowrish-kumar-61/copies-look-like-colluders-swarm) · Apart Research Swarm Alignment Hackathon, Nov 2026 · solo · [paper](https://gowrish-kumar-61.github.io/research/copies-look-like-colluders-swarm.pdf)
-- [Action-only collusion detection for LLM agents](https://github.com/gowrish-kumar-61/copies-look-like-colluders) · Apart Research AI Collusion Sprint, Oct 2026 · solo · [paper](https://gowrish-kumar-61.github.io/research/copies-look-like-colluders.pdf)
+- [Collusion monitors in agent swarms](https://github.com/gowrish-kumar-61/copies-look-like-colluders-swarm) · Apart Research Swarm Alignment Hackathon, Nov 2026 · [paper](https://gowrish-kumar-61.github.io/research/copies-look-like-colluders-swarm.pdf)
+- [Action-only collusion detection for LLM agents](https://github.com/gowrish-kumar-61/copies-look-like-colluders) · Apart Research AI Collusion Sprint, Oct 2026 · [paper](https://gowrish-kumar-61.github.io/research/copies-look-like-colluders.pdf)
 - [GPT-2 interpretability pipeline](https://github.com/gowrish-kumar-61/mechanistic-interp-gpt2) · GPT-2 in pure PyTorch with activation caching and patching; finds induction heads in GPT-2 Medium
 
 ### Interested in
