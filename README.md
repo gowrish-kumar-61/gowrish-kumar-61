@@ -15,7 +15,7 @@ I want to know when we can trust what an AI system is doing: whether a monitor w
 - [GPT-2 interpretability pipeline](https://github.com/gowrish-kumar-61/mechanistic-interp-gpt2) · GPT-2 in pure PyTorch with activation caching and patching; finds induction heads in GPT-2 Medium
 
 ### Interested in
-Multi-agent oversight and AI control · evaluations that hold up under stress · mechanistic interpretability
+Mechanistic Interpretability · Red Teaming · Multi-agent oversight and AI control · evaluations that hold up under stress ·
 
 Working toward a PhD in alignment and interpretability. Open to research collaborations, internships and fellowships.
 
